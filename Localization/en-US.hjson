@@ -117,6 +117,25 @@ Mods: {
 				DisplayName: Generic Pistol
 				Tooltip: ""
 			}
+			Mushroomjavilen: {
+			         DisplayName: Shroomish Spear
+				 Tooltip: "Turns out the spear isnt so differnt from a staff."
+		        }
+			Bombgun: {
+			         DisplayName: Gunnade
+				 Tooltip: "A piece from the mind of a demolitionist."
+			}
+			KnockbackStick: {
+			          DislpayName: Knockback Stick
+				  ToolTip: "For some reason you cant say, This seems out of place"
+			}
+			Gattlinator: {
+			          DisplayName: Gattlinator
+				  ToolTip: "A mash of broken parts"
+			}
+			ShroomishBranch: {
+			          DisplayName: Shroomish Branch
+				  ToolTip: "A simple yet effective tool made from magic shrooms and willpower"
 		}
 
 		Projectiles: {
